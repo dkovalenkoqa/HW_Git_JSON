@@ -1,8 +1,8 @@
 {
 	"Name" : "Dima",
 	"LastName" : "Kovalenko",
-	"MiddleName" : "Mikhailovich"m
+	"MiddleName" : "Mikhailovich",
 	"Age" : 22,
 	"Pets" : 0,
-	"Salary" : '500$"
+	"Salary" : "500$"
 }
