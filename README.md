@@ -58,6 +58,7 @@
      ```
  15. Отправить сразу 2 файла на внешний репозиторий.
      > git add preferences.json skills.json
+
      > git commit -m "add preferences.json skills.json
  16. На веб интерфейсе создать файл bug_report.json.
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
